@@ -1,2 +1,2 @@
 # Projeto-TCC
-Projeto de conclusão de curso em java web
+Projeto de conclusão do curso tecnologo superior em análise e desenvolvimento de sistemas desenvolvido na linguagem java.
